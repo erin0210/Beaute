@@ -1,4 +1,5 @@
 PROJECT TITLE : Beauté  (BEAUTY TRENDS APPLICATION)
+
 PROJECT SYNOPSIS :
 
 This application (Beauté) is a beauty trends - social media application that provides 
@@ -23,4 +24,5 @@ GROUP MEMBERS :-
 4. NURUL IZWANI BINTI JAIDI
 
 VIDEO URL : https://youtu.be/YLcc34jYvKs
+
 GITHUB REPO :
