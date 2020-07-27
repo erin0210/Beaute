@@ -25,4 +25,4 @@ GROUP MEMBERS :-
 
 VIDEO URL : https://youtu.be/YLcc34jYvKs
 
-GITHUB REPO :
+GITHUB REPO LINK : https://github.com/erin0210/Beaute-Frontend
